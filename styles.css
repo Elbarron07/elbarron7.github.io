@@ -45,6 +45,7 @@ textarea {
     font-size: 20px;
     margin-bottom: 35px;
     align-content: center;
+    resize: none;
 }
 
 /* Message d'erreur */
