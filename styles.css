@@ -72,8 +72,8 @@ button {
 
 /* Bouton de déverrouillage */
 #unlock-btn {
-    background-color: white;
-    color: #703e92;
+    background-color: #703e92;
+    color: #white;
     border: 1.3px solid #703e92;
     line-height: 1.6;
     font-size: 90%;
